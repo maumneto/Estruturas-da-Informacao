@@ -10,4 +10,4 @@ class pilhaEstatica:
         self.pilha.pop()
     
     def mostrar(self):
-        return
+        return print("")
