@@ -9,3 +9,5 @@ class pilhaEstatica:
     def remover_elemento(self):
         self.pilha.pop()
     
+    def mostrar(self):
+        return
