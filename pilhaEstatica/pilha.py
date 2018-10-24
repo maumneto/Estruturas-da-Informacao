@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 class pilhaEstatica:
     # contrutor da classe pilhaEstatica
     def __init__(self):
