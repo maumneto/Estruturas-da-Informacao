@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
 # classe Nó da lista encadeada simples
-class No:
+class NoSimples:
     # construtor da classe Nó
-    def __init__(self, proximo = None, dado = 0):
-        self.proximo = proximo
+    def __init__(self, proximo_no = None, dado = 0):
+        self.proximo = proximo_no
         self.dado = dado
     #
     def __repr__(self):
